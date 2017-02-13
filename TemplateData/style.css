@@ -27,12 +27,20 @@ body.template { }
 .template .template-wrap { }
 .template .template-wrap canvas { }
 
-p {
+.enter {
   font-size: 100px;
   position: fixed;
   top: 5%;
   right: 10%;
 }
+
+.game_loading {
+  position:fixed;
+  font-size: 30px;
+  left: 0%;
+  top:50%;
+}
+
 
 .test{
 	font-size: 30px;
